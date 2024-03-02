@@ -1,0 +1,113 @@
+.home {
+    background-color: black;
+    color: grey
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: white
+}
+
+.nav-link {
+    margin-right: 10px;
+    margin-left: 10px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.search {
+    height: 40px;
+    width: 200px;
+    border-radius: 60px;
+    outline: none;
+    border: 2px solid red;
+    margin-right: -35px;
+}
+
+.btn0 {
+    height: 40px;
+    width: 100px;
+    outline: none;
+    border: none;
+    background: red;
+    color: white;
+    border-radius: 60px;
+    font-weight: 700;
+}
+
+.main {
+    background: url(https://wallpapers.com/images/featured/pc-gaming-background-zvbj1ryoiptz09af.jpg)no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position: 50% 50%;
+}
+
+.main h1 {
+    font-size: 4rem;
+    font-weight: 700;
+    color: white;
+}
+
+.btn1 {
+    height: 45px;
+    width: 25%;
+    border: none;
+    outline: none;
+    background-color: red;
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+}
+
+.btn1:hover {
+    background-color: rgb(153, 8, 8);
+    transition: 0.5s;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.apple {
+    background: url(https://wallpapercave.com/wp/wp7043539.png)no-repeat;
+    height: 80vh;
+    background-size: cover;
+    width: 100%;
+    color: white;
+}
+
+.apple h1 {
+    font-weight: 500;
+    font-size: 4rem;
+    color: white;
+}
+
+.apple h6 {
+    font-weight: 550;
+    font-size: 3rem;
+    color: white
+}
+
+.card:hover {
+    -webkit-box-shadow: 3px 5px 29px 10px rgba(168, 158, 163, 1);
+    -moz-box-shadow: 3px 5px 29px 10px rgba(168, 158, 163, 1);
+    box-shadow: 3px 5px 29px 10px rgba(168, 158, 163, 1);
+    transition: 0.5s;
+}
+
+.new {
+    color: grey
+}
+
+.navbar-toggler {
+    background-color: white;
+}
